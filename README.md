@@ -4,8 +4,8 @@
 # Documento-Final
 Carrera de Computación
 
-Fundamentos de Bases de Datos
-
 Pinos Armijos Oliver Anthony
+
+Fundamentos de Bases de Datos
 
 Octubre 2022 - Febrero 2023
