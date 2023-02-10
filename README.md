@@ -6,4 +6,6 @@ Carrera de Computación
 
 Fundamentos de Bases de Datos
 
+Pinos Armijos Oliver Anthony
+
 Octubre 2022 - Febrero 2023
